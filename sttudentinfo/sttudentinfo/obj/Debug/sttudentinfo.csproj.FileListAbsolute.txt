@@ -1,0 +1,10 @@
+C:\Users\Mss Xalimo\Desktop\sttudentinfo\sttudentinfo\bin\Debug\sttudentinfo.exe.config
+C:\Users\Mss Xalimo\Desktop\sttudentinfo\sttudentinfo\bin\Debug\sttudentinfo.exe
+C:\Users\Mss Xalimo\Desktop\sttudentinfo\sttudentinfo\bin\Debug\sttudentinfo.pdb
+C:\Users\Mss Xalimo\Desktop\sttudentinfo\sttudentinfo\obj\Debug\sttudentinfo.csproj.AssemblyReference.cache
+C:\Users\Mss Xalimo\Desktop\sttudentinfo\sttudentinfo\obj\Debug\sttudentinfo.Form1.resources
+C:\Users\Mss Xalimo\Desktop\sttudentinfo\sttudentinfo\obj\Debug\sttudentinfo.Properties.Resources.resources
+C:\Users\Mss Xalimo\Desktop\sttudentinfo\sttudentinfo\obj\Debug\sttudentinfo.csproj.GenerateResource.cache
+C:\Users\Mss Xalimo\Desktop\sttudentinfo\sttudentinfo\obj\Debug\sttudentinfo.csproj.CoreCompileInputs.cache
+C:\Users\Mss Xalimo\Desktop\sttudentinfo\sttudentinfo\obj\Debug\sttudentinfo.exe
+C:\Users\Mss Xalimo\Desktop\sttudentinfo\sttudentinfo\obj\Debug\sttudentinfo.pdb
