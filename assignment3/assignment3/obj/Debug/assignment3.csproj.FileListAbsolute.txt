@@ -1,0 +1,10 @@
+C:\Users\Mss Xalimo\Documents\assignment3\assignment3\bin\Debug\assignment3.exe.config
+C:\Users\Mss Xalimo\Documents\assignment3\assignment3\bin\Debug\assignment3.exe
+C:\Users\Mss Xalimo\Documents\assignment3\assignment3\bin\Debug\assignment3.pdb
+C:\Users\Mss Xalimo\Documents\assignment3\assignment3\obj\Debug\assignment3.csproj.AssemblyReference.cache
+C:\Users\Mss Xalimo\Documents\assignment3\assignment3\obj\Debug\assignment3.sacda.resources
+C:\Users\Mss Xalimo\Documents\assignment3\assignment3\obj\Debug\assignment3.Properties.Resources.resources
+C:\Users\Mss Xalimo\Documents\assignment3\assignment3\obj\Debug\assignment3.csproj.GenerateResource.cache
+C:\Users\Mss Xalimo\Documents\assignment3\assignment3\obj\Debug\assignment3.csproj.CoreCompileInputs.cache
+C:\Users\Mss Xalimo\Documents\assignment3\assignment3\obj\Debug\assignment3.exe
+C:\Users\Mss Xalimo\Documents\assignment3\assignment3\obj\Debug\assignment3.pdb
